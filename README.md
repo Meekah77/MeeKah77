@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there! 👋 I'm Hakeem Ailara
 
-<!--
-**Meekah77/MeeKah77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst based in the UK, passionate about transforming raw data into actionable insights. With expertise in **Excel, Power BI, and SQL**, I help businesses make data-driven decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I Do
+- 📊 **Data Analysis & Visualization** using **Power BI & Excel**
+- 📄 **SQL Queries & Database Management**
+- 📈 **Business Intelligence Reporting**
+- 🛠 **Data Cleaning & Transformation**
+
+---
+
+### 🚀 Tools & Technologies
+- **Excel** (Pivot Tables, Power Query, VBA)
+- **Power BI** (DAX, Power Query, Dashboard Development)
+- **SQL** (Queries, Joins, CTEs, Optimization)
+- **Python** (Basic Data Analysis & Automation)
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](#)  
+- 📨 [Email](mailto:#)  
+- 🏆 [Portfolio](#)  
+
+---
+
+💡 _Always eager to learn, analyze, and solve business problems using data._
